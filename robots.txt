@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://hedunedofusu.pages.dev/sitemap.xml
